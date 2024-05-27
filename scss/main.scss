@@ -266,6 +266,6 @@ footer{
     color: rgb(0, 0, 0);
     padding:40px;
     .social-media{
-    @include flexcenter(row, center, center )        
+    @include flexcenter(row, center, center );     
     }
 }
